@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name        EXIF Location Data Detector
 // @namespace   https://github.com/nyqui/exif-location-data-detector
-// @version     0.1.7
+// @version     0.1.8
 // @author      nyqui
 // @description UserScript that dynamically detects location data within the EXIF headers of images loaded on a webpage and provides an interactive UI to view it.
 // @license     MIT
 
 // @match       *://*/*
-// @require     https://cdn.jsdelivr.net/npm/exifr/dist/full.umd.js
+// @require     https://cdn.jsdelivr.net/npm/exifr@7.1.3/dist/full.umd.js
 // @grant       GM_xmlhttpRequest
 // @grant       GM_getValue
 // @grant       GM_setValue
