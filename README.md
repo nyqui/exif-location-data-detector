@@ -3,7 +3,7 @@ UserScript that dynamically detects location data within the EXIF headers of ima
 
 https://github.com/nyqui/exif-location-data-detector
 
-greasyfork url pending
+https://greasyfork.org/scripts/578133
 
 ## Disclaimer
 This script is provided for educational and research purposes only. The extraction of EXIF metadata should be done ethically and with respect for personal privacy. This tool must not be used for doxxing, stalking, or any illegal and/or immoral activities.
